@@ -25,12 +25,6 @@ Data Enthusiast | ML/DL Aspirant
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MitVinay&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Vinay's GitHub Stats" />
 </a>
 
-<b>My GitHub Stats</b>
-
-<!-- GitHub Readme Stats -->
-<a href="http://www.github.com/MitVinay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MitVinay&show_icons=true&hide=prs,issues,contribs&theme=radical" alt="Vinay's GitHub Stats" />
-</a>
 
 <!-- Languages -->
 <br />
